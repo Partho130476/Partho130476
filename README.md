@@ -25,8 +25,7 @@ I build and automate cloud infrastructure, ship CI/CD pipelines, and train ML mo
 ## 📌 Currently
 
 - ☁️ AWS cloud infra & IaC with Terraform at Codynix IT Lab
-- 📚 Applying to MSc AI/CS programmes — Sapienza Rome, University of Hamburg, and others (WS 2026/27)
-- 🎸 Playing acoustic guitar when not staring at YAML
+
 
 ---
 
