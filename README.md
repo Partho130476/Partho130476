@@ -26,7 +26,4 @@ I build and automate cloud infrastructure, ship CI/CD pipelines, and train ML mo
 
 - ☁️ AWS cloud infra & IaC with Terraform at Codynix IT Lab
 
-
----
-
-📧 partho@codynix.com  ·  📍 Sylhet, Bangladesh
+ 📍 Sylhet, Bangladesh
